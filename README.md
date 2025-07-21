@@ -1,6 +1,11 @@
 # Caligula-Traduction-FR
 Une traduction complète de Caligula Overdose.
 
+
+[![Vidéo d'annonce](https://img.youtube.com/vi/Kk3VLB1-9pw/0.jpg)](https://www.youtube.com/watch?v=Kk3VLB1-9pw)
+
+[![Chansons](https://img.youtube.com/vi/5HTvl55LSKc/0.jpg)](https://www.youtube.com/watch?v=5HTvl55LSKc)
+
 Une traduction complète de Caligula Overdose.
 Pour l'installer, cliquez sur l'exécutable présent dans le dossier et indiquez l'emplacement de votre jeu.
 Une traduction des chansons est aussi fournie avec le patch sous forme de pdf pour vous permettre de mieux comprendre les chansons du jeu (ainsi que les Musiciens qui les ont écrites).
