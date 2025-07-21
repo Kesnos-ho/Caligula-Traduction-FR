@@ -2,9 +2,10 @@
 Une traduction complète de Caligula Overdose.
 
 
-[![Vidéo d'annonce](https://img.youtube.com/vi/Kk3VLB1-9pw/0.jpg)](https://www.youtube.com/watch?v=Kk3VLB1-9pw)
+[![Vidéo d'annonce](https://img.youtube.com/vi/8sX4u0BQDRY/0.jpg)](https://www.youtube.com/watch?v=8sX4u0BQDRY)
 
-[![Chansons](https://img.youtube.com/vi/5HTvl55LSKc/0.jpg)](https://www.youtube.com/watch?v=5HTvl55LSKc)
+
+[![Installation](https://img.youtube.com/vi/CtsMsXk9D8s/0.jpg)](https://www.youtube.com/watch?v=CtsMsXk9D8s)
 
 Une traduction complète de Caligula Overdose.
 Pour l'installer, cliquez sur l'exécutable présent dans le dossier et indiquez l'emplacement de votre jeu.
